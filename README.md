@@ -38,4 +38,5 @@ Analysis of the reasons are beyond the scope of this project, and the time howev
 
 - If given more time, I would have liked to webscrape the table. Simply copying it was not the most elegant, but the fastest solution.
 - Looking back, I should have not downloaded to csv's but got the population by summing the age groups.
+- I would have liked to visualize some of the results, for example the death rates per age group compared to the population. 
 
